@@ -31,7 +31,7 @@ window.onscroll = () => {
             };
         }
     );
-    // 49.50sec
+    
 
     /*==================== sticky navbar ====================*/
         let header=document.querySelector('header');
