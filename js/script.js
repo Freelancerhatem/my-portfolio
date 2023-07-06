@@ -60,7 +60,7 @@ ScrollReveal().reveal('.home-content p, .about-content', {origin:'right'});
 
 /*==================== typed js ====================*/
 const typed=new Typed('.multiple-text',{
-    strings: ['front-end developer','graphics designer','wordpress developer'],
+    strings: ['Frontend Developer','App Developer','Graphics Designer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay:1000,

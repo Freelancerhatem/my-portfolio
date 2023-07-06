@@ -14,7 +14,7 @@
     --bg-color: #1f242d;
     --second-bg-color: #323946;
     --text-color:#fff;
-    --main-color:#0ef;
+    --main-color:#cafd6b;
 }
 html{
     font-size: 62.5%;
@@ -249,7 +249,7 @@ font-weight: 700;
 }
 .portfolio-layer P{
     font-size: 1.6rem;
-    margin: 0.3rem 0 1rem;
+    margin: 0.3rem 0 1rem 2rem;
 }
 .portfolio-layer a{
     display: inline-flex;
